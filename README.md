@@ -6,7 +6,7 @@ en la carpeta raiz, ejecutar el comando
 
 {EJECUTAR EL SERVIDOR API PARA CARGAR LOS DATOS}
 
-npm start
+"npm install" luego "npm start"
 
 FIN
 
